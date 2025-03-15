@@ -1,0 +1,13 @@
+Instancia : M1
+Ruta base: /home/gerardo.goni/resources
+Ruta salida: /home/gerardo.goni/salida/M1/
+
+eval_M1M05C0001G1000P200
+eval_M1M05C0001G1000P200I12
+2018.02.23.19.22.42: Inicio /home/gerardo.goni/salida/M1/eval_M1M05C0001G1000P200/eval_M1M05C0001G1000P200I12//pareto.pr
+2018.02.23.23.13.23: Tiempo 13837370
+Inicio Inicializacion Greedy 2018.02.23.19.22.45
+Fin Inicializacion Greedy 2018.02.23.19.26.14
+2018.02.23.23.13.24: Cant soluciones 68
+2018.02.23.23.13.24: Fin /home/gerardo.goni/salida/M1/eval_M1M05C0001G1000P200/eval_M1M05C0001G1000P200I12//pareto.pr
+2018.02.23.23.13.24: FINAL TOTAL

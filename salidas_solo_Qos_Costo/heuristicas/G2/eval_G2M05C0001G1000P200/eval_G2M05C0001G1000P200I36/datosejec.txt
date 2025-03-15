@@ -1,0 +1,14 @@
+Instancia : G2
+Ruta base: /home/gerardo.goni/resources
+Ruta salida: /home/gerardo.goni/salida/G2/
+
+eval_G2M05C0001G1000P200
+eval_G2M05C0001G1000P200I36
+2018.03.07.15.53.27: Creando directorio /home/gerardo.goni/salida/G2/eval_G2M05C0001G1000P200/eval_G2M05C0001G1000P200I36/
+2018.03.07.15.53.27: Inicio /home/gerardo.goni/salida/G2/eval_G2M05C0001G1000P200/eval_G2M05C0001G1000P200I36//pareto.pr
+2018.03.07.21.05.48: Tiempo 18739727
+Inicio Inicializacion Greedy 2018.03.07.15.53.28
+Fin Inicializacion Greedy 2018.03.07.15.55.15
+2018.03.07.21.05.49: Cant soluciones 64
+2018.03.07.21.05.49: Fin /home/gerardo.goni/salida/G2/eval_G2M05C0001G1000P200/eval_G2M05C0001G1000P200I36//pareto.pr
+2018.03.07.21.05.49: FINAL TOTAL

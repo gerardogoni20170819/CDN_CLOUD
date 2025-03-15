@@ -1,0 +1,14 @@
+Instancia : AMPL4
+Ruta base: /home/gerardo.goni/resources
+Ruta salida: /home/gerardo.goni/salida/AMPL4/
+
+eval_AMPL4M05C0001G1000P200
+eval_AMPL4M05C0001G1000P200I48
+2018.03.15.13.01.13: Creando directorio /home/gerardo.goni/salida/AMPL4/eval_AMPL4M05C0001G1000P200/eval_AMPL4M05C0001G1000P200I48/
+2018.03.15.13.01.13: Inicio /home/gerardo.goni/salida/AMPL4/eval_AMPL4M05C0001G1000P200/eval_AMPL4M05C0001G1000P200I48//pareto.pr
+2018.03.15.13.07.05: Tiempo 351821
+Inicio Inicializacion Greedy 2018.03.15.13.01.13
+Fin Inicializacion Greedy 2018.03.15.13.01.29
+2018.03.15.13.07.05: Cant soluciones 47
+2018.03.15.13.07.05: Fin /home/gerardo.goni/salida/AMPL4/eval_AMPL4M05C0001G1000P200/eval_AMPL4M05C0001G1000P200I48//pareto.pr
+2018.03.15.13.07.05: FINAL TOTAL

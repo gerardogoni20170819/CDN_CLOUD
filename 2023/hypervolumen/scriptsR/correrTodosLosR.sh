@@ -1,0 +1,10 @@
+Rscript /home/ggoni/Documentos/PROYE/solocodigo/proycodigo/salida/2023/hypervolumen/scriptsR/CH1_hypervolume_TODOS_ContraReferenciaEVALEXPE.r
+Rscript /home/ggoni/Documentos/PROYE/solocodigo/proycodigo/salida/2023/hypervolumen/scriptsR/CH2_hypervolume_TODOS_ContraReferenciaEVALEXPE.r
+Rscript /home/ggoni/Documentos/PROYE/solocodigo/proycodigo/salida/2023/hypervolumen/scriptsR/M1_hypervolume_TODOS_ContraReferenciaEVALEXPE.r
+Rscript /home/ggoni/Documentos/PROYE/solocodigo/proycodigo/salida/2023/hypervolumen/scriptsR/M2_hypervolume_TODOS_ContraReferenciaEVALEXPE.r
+Rscript /home/ggoni/Documentos/PROYE/solocodigo/proycodigo/salida/2023/hypervolumen/scriptsR/G1_hypervolume_TODOS_ContraReferenciaEVALEXPE.r
+Rscript /home/ggoni/Documentos/PROYE/solocodigo/proycodigo/salida/2023/hypervolumen/scriptsR/G2_hypervolume_TODOS_ContraReferenciaEVALEXPE.r
+Rscript /home/ggoni/Documentos/PROYE/solocodigo/proycodigo/salida/2023/hypervolumen/scriptsR/AMPL1_hypervolume_TODOS_ContraReferenciaEVALEXPE.r
+Rscript /home/ggoni/Documentos/PROYE/solocodigo/proycodigo/salida/2023/hypervolumen/scriptsR/AMPL2_hypervolume_TODOS_ContraReferenciaEVALEXPE.r
+Rscript /home/ggoni/Documentos/PROYE/solocodigo/proycodigo/salida/2023/hypervolumen/scriptsR/AMPL3_hypervolume_TODOS_ContraReferenciaEVALEXPE.r
+Rscript /home/ggoni/Documentos/PROYE/solocodigo/proycodigo/salida/2023/hypervolumen/scriptsR/AMPL4_hypervolume_TODOS_ContraReferenciaEVALEXPE.r

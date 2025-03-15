@@ -1,0 +1,14 @@
+Instancia : AMPL2
+Ruta base: /home/gerardo.goni/resources
+Ruta salida: /home/gerardo.goni/salida/AMPL2/
+
+eval_AMPL2M05C0001G1000P200
+eval_AMPL2M05C0001G1000P200I28
+2018.03.15.12.44.40: Creando directorio /home/gerardo.goni/salida/AMPL2/eval_AMPL2M05C0001G1000P200/eval_AMPL2M05C0001G1000P200I28/
+2018.03.15.12.44.40: Inicio /home/gerardo.goni/salida/AMPL2/eval_AMPL2M05C0001G1000P200/eval_AMPL2M05C0001G1000P200I28//pareto.pr
+2018.03.15.12.47.29: Tiempo 169433
+Inicio Inicializacion Greedy 2018.03.15.12.44.40
+Fin Inicializacion Greedy 2018.03.15.12.44.48
+2018.03.15.12.47.30: Cant soluciones 50
+2018.03.15.12.47.30: Fin /home/gerardo.goni/salida/AMPL2/eval_AMPL2M05C0001G1000P200/eval_AMPL2M05C0001G1000P200I28//pareto.pr
+2018.03.15.12.47.30: FINAL TOTAL

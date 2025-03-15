@@ -1,0 +1,14 @@
+Instancia : CH2
+Ruta base: /home/gerardo.goni/resources
+Ruta salida: /home/gerardo.goni/salida/CH2/
+
+eval_CH2M05C0001G1000P200
+eval_CH2M05C0001G1000P200I18
+2018.02.22.21.42.57: Creando directorio /home/gerardo.goni/salida/CH2/eval_CH2M05C0001G1000P200/eval_CH2M05C0001G1000P200I18/
+2018.02.22.21.42.57: Inicio /home/gerardo.goni/salida/CH2/eval_CH2M05C0001G1000P200/eval_CH2M05C0001G1000P200I18//pareto.pr
+2018.02.22.23.36.02: Tiempo 6779501
+Inicio Inicializacion Greedy 2018.02.22.21.43.03
+Fin Inicializacion Greedy 2018.02.22.21.45.10
+2018.02.22.23.36.03: Cant soluciones 52
+2018.02.22.23.36.03: Fin /home/gerardo.goni/salida/CH2/eval_CH2M05C0001G1000P200/eval_CH2M05C0001G1000P200I18//pareto.pr
+2018.02.22.23.36.03: FINAL TOTAL
