@@ -1,0 +1,23 @@
+A continuación se detalla el formato de los diferentes archivos de una instancia del problema.
+
+
+* Archivo de centros de datos.
+Nombre del archivo: dc.<#>
+Formato del archivo: <dc id> <name> <storage base price> <transfer base price> <on demand vm hourly price> <reserved instance vm yearly upfront>
+
+* Archivo de regiones de usuarios.
+Nombre del archivo: reg_users.<#>
+Formato del archivo: <user region id> <name>
+
+* Archivo de documentos.
+Nombre del archivo: docs.video.<#>
+Formato del archivo: <doc. id> <doc. size (in bytes)> <provider id>
+
+* Archivo de tráfico.
+Nombre del archivo: workload.video.<#>
+Formato del archivo: <request arrival time (in secs)> <doc. id> <transfer size (in bytes)> <user region id>
+
+* Archivo de QoS.
+Nombre del archivo: qos.<#>
+Formato del archivo: <user region id> <dc id> <qos metric>
+

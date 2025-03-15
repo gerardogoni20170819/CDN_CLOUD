@@ -1,0 +1,30 @@
+0 South Africa
+1 Australia
+2 Brazil
+3 California
+4 China
+5 Florida
+6 France
+7 Georgia
+8 Germany
+9 Illinois
+10 India
+11 Italy
+12 Japan
+13 Mexico
+14 Netherlands
+15 New Jersey
+16 New York
+17 Norway
+18 Philippines
+19 Russian Federation
+20 Saudi Arabia
+21 South Korea
+22 Spain
+23 Sweden
+24 Taiwan
+25 Texas
+26 Thailand
+27 Turkey
+28 United Kingdom
+29 Virginia
